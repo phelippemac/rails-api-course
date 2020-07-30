@@ -1,24 +1,15 @@
-# README
+# Projeto API Rest/RestFull Ruby on Rails - Curso Jackson Pires
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Este repositório destina-se somente ao arquivamente do código aprendido no referido curso para que posteriomente possa ser consultado e reutilizado.
 
-Things you may want to cover:
+Conhecimentos adquiridos no curso:
 
-* Ruby version
+* O que é uma API;
 
-* System dependencies
+* O que a torna Rest e RestFull;
 
-* Configuration
+* Usando Curl e Postman para chamadas.
 
-* Database creation
+O projeto:
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+*Trata-se de um projeto de agenda, que retorna tipo de contatos e deus determinados campos como JSON.
