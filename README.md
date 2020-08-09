@@ -14,3 +14,4 @@ Este repositório destina-se a receber os códigos do curso que estou realizando
 - Ruby - 2.7.1
 - Rails - 6.0.3
 - PostgreSql
+
